@@ -1,8 +1,8 @@
 # ACDC Research Group @ UNSW Sydney
-<a href="https://www.acdc-pv.unsw.edu.au/" target="_blank">
+<a href="https://www.acdc-pv-unsw.com" target="_blank">
 <img height="150" alt="ACDC_Logo-removebg-preview" src="https://github.com/user-attachments/assets/aa694d92-3385-4953-b06c-909701ac83ef" />
 </a>
-<a href="https://www.acdc-pv.unsw.edu.au/" target="_blank">
+<a href="https://www.unsw.edu.au/" target="_blank">
 <img height="150" alt="crest-removebg-preview" src="https://github.com/user-attachments/assets/90cb9ddc-e978-4bd5-8611-986ea8214b6f" target="_blank" />
 </a>
 
