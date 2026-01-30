@@ -1,6 +1,10 @@
 # ACDC Research Group @ UNSW Sydney
-<img height="150" alt="ACDC_Logo-removebg-preview" src="https://github.com/user-attachments/assets/aa694d92-3385-4953-b06c-909701ac83ef" /> <img height="150" alt="crest-removebg-preview" src="https://github.com/user-attachments/assets/90cb9ddc-e978-4bd5-8611-986ea8214b6f" />
-
+<a href="https://www.acdc-pv.unsw.edu.au/" target="_blank">
+<img height="150" alt="ACDC_Logo-removebg-preview" src="https://github.com/user-attachments/assets/aa694d92-3385-4953-b06c-909701ac83ef" />
+</a>
+<a href="https://www.acdc-pv.unsw.edu.au/" target="_blank">
+<img height="150" alt="crest-removebg-preview" src="https://github.com/user-attachments/assets/90cb9ddc-e978-4bd5-8611-986ea8214b6f" target="_blank" />
+</a>
 
 Welcome to the GitHub organization of the **ACDC Research Group** at the University of New South Wales (UNSW), Sydney.
 
